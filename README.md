@@ -1,26 +1,25 @@
-#  Device Tree for Xiaomi Mi 10T/Mi 10T Pro (apollo)
+Device configuration for Xiaomi Mi 10
+=========================================
 
-## Spec Sheet
+The Xiaomi Mi 10 (codenamed _"umi"_) is a high-end smartphone from Xiaomi.
 
-| Feature                 | Specification                                                              |
-| :---------------------- | :--------------------------------                                          |
-| CPU                     | Octa-core (1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585)|
-| Chipset                 | Qualcomm SM8250 Snapdragon 865 (7 nm)                                      |
-| GPU                     | Adreno 650                                                                 |
-| Memory                  | 6 GB / 8 GB                                                                |
-| Shipped Software        | Android 10, MIUI 12                                                        |
-| Storage                 | 128 GB / 256 GB                                                            |
-| Battery                 | 5000 mAh                                                                   |
-| Dimensions              | 165.1 x 76.4 x 9.3 mm (6.5 x 3.01 x 0.37 in)                               |
-| Display                 | 6.67 inches, 107.4 cm2 (~85.2% screen-to-body ratio)                       |
-| Rear Camera             | 64 MP, f/1.9, 26mm (wide), 1/1.73", 0.8µm, PDAF                            |
-|                         | 13 MP, f/2.4, 123 (ultrawide), 1.12µm                                     |
-|                         | 5 MP, f/2.4, (macro), AF                                                   |
-| Front Camera            | 20 MP, f/2.2, 27mm (wide), 1/3.4", 0.8µm                                   |
-| Release Date            | October 2020                                                               |
+It was announced on February 2020. Release date was February 2020.
 
-## Device Picture
+## Device specifications
 
-![Xiaomi Mi 10T/Mi 10T Pro](https://www.bug.hr/img/xiaomi-mi-10t-serija-telefona-za-kreativce_oFqltN.png "Xiaomi Mi 10T/Mi 10T Pro/Redmi K30S Ultra")
+Basic   | Spec Sheet
+-------:|:-------------------------
+SoC     | Qualcomm SDM865 Snapdragon 865
+CPU     | 1x 2.84GHz Kryo™ 585 + 3x 2.42GHz Kryo™ 585 + 4x 1.80Ghz Kryo™ 585
+GPU     | Adreno 650
+Memory  | 8/12 GB RAM
+Shipped Android Version | 10.0 with MIUI 11
+Storage | 128/256 GB
+Battery | Non-removable Li-Po 4780 mAh battery
+Display | 1080 x 2340 pixels, 19.5:9 ratio, 6.67 inches, AMOLED HDR10+
+Camera  | 108MP(Primary) 20MP(Ultra-wide) 12MP(Telephoto 2x Optical Zoom) 8MP(Telephoto 5x Hybrid zoom)
+
+![Xiaomi MI 10 5G ](https://img.chaptsand.top/img/Xaomi-Mi-10.png "Xiaomi MI 10 5G")
+
 
 

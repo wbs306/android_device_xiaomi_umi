@@ -4,11 +4,7 @@
     "target_path": "device/xiaomi/sm8250-common"
   },
   {
-    "repository": "android_kernel_xiaomi_sm8250-apollo",
-    "target_path": "kernel/xiaomi/sm8250"
+    "repository": "android_vendor_xiaomi_umi",
+    "target_path": "vendor/xiaomi/umi"
   },
-  {
-    "repository": "android_vendor_xiaomi-apollo",
-    "target_path": "vendor/xiaomi"
-  }
 ]
